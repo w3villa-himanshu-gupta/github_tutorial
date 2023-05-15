@@ -1,5 +1,5 @@
-# github_tutorial
-github command practice
+# Github_tutorial
+
 
 ## Git
 **_Git_** is a version control system, Save all the history of your files & also save the changes made in it.
@@ -8,4 +8,27 @@ github command practice
 ```
  git --version 
 ```
-### Commands for file and folder
+### Set your Git username
+
+```
+git config --global user.name "<Your name>"
+
+```
+### Set your Git email
+
+```
+git config --global user.email "<Your email>"
+
+```
+### Check your Git username
+
+```
+git config --global user.name
+
+```
+### Check your Git email
+
+```
+git config --global user.email
+
+```
